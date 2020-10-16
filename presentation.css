@@ -3,7 +3,6 @@ body{
     text-align: center;
     background: black;
     width : 1000;
-    height: 500;
     display:flex;
   }
   img
@@ -16,7 +15,6 @@ body{
   figcaption {
     color:lightblue;
     }
-
   .video_wrapper {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
