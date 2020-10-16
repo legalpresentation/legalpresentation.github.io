@@ -13,9 +13,9 @@ body{
     width : 200;
     height : 200; 
   }
-  img figcaption {
-    color: white;
-  }
+  figcaption {
+    color:lightblue;
+    }
   .video_wrapper {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
