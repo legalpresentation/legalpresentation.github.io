@@ -5,6 +5,9 @@ body{
     width : 1000;
     display:flex;
   }
+h1 {
+  text-shadow: 2px 2px darkblue;
+}
   img
   {
     border: 3px solid black;
