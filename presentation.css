@@ -5,13 +5,13 @@ body{
     display:flex;
   }
   h1 { 
-     font-size:100px; 
+     font-size:18px; 
     color: transparent; 
     text-shadow: 2px 5px 5px  
         rgba(255, 255, 255, 0.3); 
 } 
   h2 { 
-     font-size:60px; 
+     font-size:12px; 
     color: transparent; 
     text-shadow: 2px 5px 5px  
         rgba(255, 255, 255, 0.3); 
