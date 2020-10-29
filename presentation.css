@@ -5,7 +5,7 @@ body{
     display:flex;
   }
   h1 { 
-     font-size:18px; 
+     font-size:20px; 
     color: transparent; 
     text-shadow: 2px 5px 5px  
         rgba(255, 255, 255, 0.3); 
