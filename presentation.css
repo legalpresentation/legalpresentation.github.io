@@ -23,9 +23,13 @@ body{
     font-size:50px; 
     color: white;
   }
-  img figcaption {
-    color: white;
-  }
+figcaption {
+  background-color: black;
+  color: white;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
   .video_wrapper {
       display: grid;
       grid-template-columns: repeat (2,1fr);
