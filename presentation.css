@@ -17,6 +17,12 @@ body{
     width : 200;
     height : 200; 
   }
+  .small_image{
+    width: 200px;
+    height: 121px;
+    font-size:50px; 
+    color: white;
+  }
   img figcaption {
     color: white;
   }
