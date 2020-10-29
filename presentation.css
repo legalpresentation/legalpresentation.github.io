@@ -10,7 +10,6 @@ body{
   img
   {
     border: 3px solid black;
-    text-align: center;
     width : 200;
     height : 200; 
   }
@@ -24,7 +23,6 @@ body{
       grid-gap: 10px;
       grid-auto-rows: minmax(100px, auto);
       border:solid,black;
-      text-align: center;
     }
     .one {
       grid-column: 1;
