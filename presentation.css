@@ -25,13 +25,12 @@ figcaption {
 }
   .video_wrapper {
       display: grid;
-      grid-template-columns: repeat (2,1fr);
+      grid-template-columns: repeat (5,1fr);
       grid-gap: 10px;
-      grid-auto-rows: minmax(100px, auto);
+      grid-auto-rows: minmax(200px, auto);
       border:solid,black;
     }
     .one {
-      text-align: center;
       grid-column: 1;
       grid-row: 1;
       width: 200;
