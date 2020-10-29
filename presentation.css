@@ -34,10 +34,15 @@ figcaption {
   text-align: center;
   margin:auto;
 }
-figure
-{
+figure {
+  float: right;
   text-align: center;
-  margin:auto;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: thin silver solid;
+  margin: auto;
+  padding: 0.5em;
 }
     .one {
       grid-column: 1;
