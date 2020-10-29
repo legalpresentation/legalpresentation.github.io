@@ -30,7 +30,7 @@ figcaption {
       grid-auto-rows: minmax(200px, auto);
       border:solid,black;
     }
-#halleh {
+figure {
   text-align: center;
   margin:auto;
 }
