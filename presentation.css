@@ -30,6 +30,10 @@ figcaption {
       grid-auto-rows: minmax(200px, auto);
       border:solid,black;
     }
+figure
+{
+  text-align: center;
+}
     .one {
       grid-column: 1;
       grid-row: 1;
