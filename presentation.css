@@ -1,4 +1,5 @@
 body{
+    border: 1px solid black;
     text-align: center;
     background: black;
     display:flex;
@@ -35,6 +36,7 @@ figcaption {
       border:solid,black;
     }
     .one {
+      text-align: center;
       grid-column: 1;
       grid-row: 1;
       width: 200;
