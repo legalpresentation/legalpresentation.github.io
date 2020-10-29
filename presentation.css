@@ -32,7 +32,7 @@ figcaption {
     }
 figure
 {
-  position: absolute;
+  position: relative;
   text-align: center;
 }
     .one {
