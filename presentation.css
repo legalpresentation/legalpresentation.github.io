@@ -1,5 +1,5 @@
 body{
-    border: 1px solid white;
+    border: 1px solid lightblue;
     text-align: center;
     background: black;
     width : 1000;
@@ -12,7 +12,7 @@ body{
     border: 3px solid black;
     text-align: center;
     width : 200;
-    height : 1000; 
+    height : 200; 
   }
   figcaption {
     color:lightblue;
