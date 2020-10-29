@@ -10,13 +10,7 @@ body{
     text-shadow: 2px 5px 5px  
         rgba(255, 255, 255, 0.3); 
 } 
-  img
-  {
-    border: 1px solid black;
-    text-align: center;
-    width : 200;
-    height : 200; 
-  }
+
   .small_image{
     width: 200px;
     height: 121px;
