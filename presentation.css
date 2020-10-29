@@ -16,6 +16,7 @@ body{
   }
   figcaption {
     color:lightblue;
+    text-align: center;
     }
   .video_wrapper {
       display: grid;
