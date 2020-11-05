@@ -16,6 +16,12 @@ body{
     text-shadow: 2px 5px 5px  
         rgba(255, 255, 255, 0.3); 
 } 
+h3 {
+  display: white;
+  color:lightblue;
+  font-size:14px; 
+  font-weight: bold;
+}
 
   .small_image{
     width: 200px;
