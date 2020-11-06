@@ -12,7 +12,7 @@ body{
         rgba(255, 255, 255, 0.3); 
 } 
   h2 { 
-     font-size:12px; 
+     font-size:14px; 
     color: transparent; 
     text-shadow: 2px 5px 5px  
         rgba(255, 255, 255, 0.3); 
@@ -25,7 +25,7 @@ h3 {
 }
 p{
   color:lightblue;
-  font-size:12px; 
+  font-size:16px; 
   text-align:left;
 }
 
