@@ -23,6 +23,11 @@ h3 {
   font-size:14px; 
   font-weight: bold;
 }
+p{
+  color:lightblue;
+  font-size:12px; 
+  text-align:left;
+}
 
   .small_image{
     width: 200px;
