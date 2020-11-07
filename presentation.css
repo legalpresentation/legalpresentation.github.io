@@ -61,7 +61,7 @@ figcaption {
       display: grid;
       grid-template-columns: 1fr 1fr;
       grid-gap: 10px;
-      grid-template-rows: 100px 200px;
+      grid-template-rows: 80px 180px;
 
     }
 
