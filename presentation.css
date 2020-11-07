@@ -56,6 +56,14 @@ figcaption {
       grid-auto-rows: minmax(200px, auto);
       border:solid,darkblue;
     }
+.interview_wrapper {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-gap: 50px;
+      grid-auto-rows: minmax(500px, auto);
+      border:solid,darkblue;
+    }
+
 figure {
   text-align: center;
   margin:auto;
