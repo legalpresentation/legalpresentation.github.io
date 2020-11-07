@@ -3,7 +3,7 @@ body{
     text-align: center;
     background: darkblue;
     display:flex;
-    font-family:calibri;
+    font-family:calibri,'Times New Roman', Times, serif, sans-serif;
   }
   h1 { 
      font-size:20px; 
