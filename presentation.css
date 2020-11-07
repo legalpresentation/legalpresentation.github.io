@@ -55,6 +55,7 @@ figcaption {
       grid-gap: 50px;
       grid-auto-rows: minmax(200px, auto);
       border:solid,darkblue;
+      margin-top:100px;
     }
 .interview_wrapper {
       display: grid;
