@@ -55,7 +55,7 @@ figcaption {
       grid-gap: 50px;
       grid-auto-rows: minmax(200px, auto);
       border:solid,darkblue;
-      margin-top:100px;
+      margin-top:50px;
     }
 .interview_wrapper {
       display: grid;
@@ -109,6 +109,7 @@ figure {
       list-style-type: none;
       display: flex;
       flex-wrap: wrap; 
+      margin-bottom:50px;
     }
     li a{color:lightblue}
     .flex {
