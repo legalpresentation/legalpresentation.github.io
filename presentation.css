@@ -3,7 +3,7 @@ body{
     text-align: center;
     background: darkblue;
     display:flex;
-    font-family:courier;
+    font-family:calibri,courier;
   }
   h1 { 
      font-size:20px; 
@@ -102,7 +102,7 @@ figure {
     }
   
   .container {
-      font-family: courier,'Times New Roman', Times, serif, sans-serif;
+      font-family: calibri,courier,'Times New Roman', Times, serif, sans-serif;
       font: medium;
       margin: 0;
       padding: 0;
