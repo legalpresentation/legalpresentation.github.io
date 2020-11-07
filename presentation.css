@@ -60,8 +60,7 @@ figcaption {
       display: grid;
       grid-template-columns: 1fr 1fr;
       grid-gap: 50px;
-      grid-auto-rows: minmax(500px, auto);
-      border:solid,darkblue;
+
     }
 
 figure {
